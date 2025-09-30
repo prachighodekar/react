@@ -23,6 +23,7 @@ function App() {
           }
     })
     .finally(() => setLoading(false))
+    console.log("conf check:", conf);
   },[])
        
   return !loading ? (
