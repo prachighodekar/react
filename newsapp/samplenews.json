@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Hafsa Adil",
+      "title": "ICC Women’s World Cup 2025: Teams, schedule, tickets, India vs Pakistan",
+      "description": "From tournament format to venues and top players to watch, here’s Al Jazeera’s guide to the Women’s Cricket World Cup.",
+      "url": "https://www.aljazeera.com/sports/2025/9/29/icc-womens-world-cup-2025-teams-schedule-tickets-india-vs-pakistan",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AFP__20250926__76UQ49J__v1__MidRes__CricketIccWomenWc2025-1759155731.jpg?resize=1200%2C630",
+      "publishedAt": "2025-09-29T15:18:23Z",
+      "content": "Womens cricket will take centre stage when eight nations compete in the International Cricket Councils (ICC) Womens World Cup 2025 in India and Sri Lanka from Tuesday.\r\nAustralia are the defending ch… [+5765 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Chris Woakes: England all-rounder retires from international cricket",
+      "description": "England all-rounder Chris Woakes says \"the moment has come\" for him to retire from international cricket.",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cly1xz5zq7ro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fb4/live/a63318d0-9d26-11f0-8d30-39a07caee29f.jpg",
+      "publishedAt": "2025-09-29T11:52:21.5341307Z",
+      "content": "England all-rounder Chris Woakes has retired from international cricket following his omission from this winter's Ashes squad.\r\nThe 36-year-old played 62 Test matches, 122 one-day internationals and … [+830 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
